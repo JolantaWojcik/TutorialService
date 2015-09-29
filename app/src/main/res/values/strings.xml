@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tutorial Service</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sStart">Start Music Player</string>
+    <string name="sStop">Stop Music Player</string>
+    <string name="local_service_started">notification id</string>
+</resources>
